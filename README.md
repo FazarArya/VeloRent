@@ -1,5 +1,9 @@
 ## About VeloRent
 
+<p align="center">
+  <img src="public/images/Logo VeloRent (1).png" width="300" alt="VeloRent Logo">
+</p>
+
 VeloRent adalah project website sederhana untuk layanan penyewaan kendaraan sepeda motor dan mobil, dibangun menggunakan framework Laravel.  
 Project ini bertujuan untuk memudahkan pengguna dalam melakukan reservasi kendaraan dengan cepat dan efisien melalui sistem online.
 
@@ -78,4 +82,4 @@ Untuk login sebagai admin, silakan cek kredensial yang ada di file berikut:
 database/seeders/UserSeeder.php
 ```
 
-> Dibuat dengan 🔥❤️‍🔥🧑‍💻 oleh [Fazar Arya](https://github.com/FazarArya)
+> Dibuat dengan ❤️‍🔥🧑‍💻 oleh [Fazar Arya](https://github.com/FazarArya)
